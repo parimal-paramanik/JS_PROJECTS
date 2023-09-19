@@ -6,9 +6,13 @@ body {
 h1{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: white;
-    font-size: 3rem;
+    font-size: 4rem;
     display: flex;
     justify-content: center;
     /* align-items: center; */
     margin-top: 20%;
+
 }
+/* #div{
+    background-color: red;
+} */
